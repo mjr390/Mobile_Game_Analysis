@@ -1,5 +1,5 @@
 
-The goal of this project was to use pandas to examine sales and demographic data of an inline gaming company.  The dataset, which is in the Resources folder, contains data about the customers of the company and the items purchased.  Included in this repo is this README contining a short analysis of the findings, the code used, and multiple data frames created from the data, and an ipynb file containg the code that can be run.
+The goal of this project was to use pandas to examine sales and demographic data of an online gaming company.  The dataset, which is in the Resources folder, contains data about the customers of the company and the items purchased.  Included in this repo is this README contining a short analysis of the findings, the code used, and multiple data frames created from the data, and an ipynb file containg the code that can be run.
 
 What the code does:
 
